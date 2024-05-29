@@ -8,7 +8,8 @@
 3. Select `osu!syntax` from `File` > `Preferences` > `Color Theme` in VS Code or Cursor.
 
 ## Screenshots
-<img width="1055" alt="SCR-20240530-bpaw" src="https://github.com/suzukidog/osu-syntax-vscode-theme/assets/54813237/dcc841b4-acf9-45c6-8be5-f28f504079c1">
+<img width="100%" alt="SCR-20240530-bpaw" src="https://github.com/suzukidog/custom-theme/assets/54813237/39558c93-7364-40e6-9d18-a8e94f050916">
+
 
 ## License
 This theme is released under the MIT License.
