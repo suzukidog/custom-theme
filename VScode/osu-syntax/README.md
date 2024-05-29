@@ -1,16 +1,14 @@
-# osu-syntax README
+# osu!syntax - VS Code Theme
 
-## Working with Markdown
+**osu!syntax** is a color theme for VS Code and Cursor, inspired by the rhythm game "osu!".
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation
+1. Clone or download this repository.
+2. Move the `osu!syntax` theme folder to the extensions directory of VS Code or Cursor.
+3. Select `osu!syntax` from `File` > `Preferences` > `Color Theme` in VS Code or Cursor.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Screenshots
+<img width="1055" alt="SCR-20240530-bpaw" src="https://github.com/suzukidog/osu-syntax-vscode-theme/assets/54813237/dcc841b4-acf9-45c6-8be5-f28f504079c1">
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## License
+This theme is released under the MIT License.
